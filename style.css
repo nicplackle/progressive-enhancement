@@ -9,3 +9,8 @@
 table, th, td {
     border: 1px solid black;
     }  
+.good{font-family: "Arial Black" Bold;
+    color: green;}
+.bad{font-family: "Arial Black" Bold;
+    color: red;
+}    
