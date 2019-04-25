@@ -10,6 +10,16 @@ body {width: 75%;
 p {font-family: "Tims New Roman" serif;
     color: rgb(37, 35, 35);
     letter-spacing: 2px}
+img {float: left;
+    margin-right: 50px;} 
+.box-orange {
+    background: orange;
+    width: 100px;
+    height: 30px;
+    position: fixed;
+    bottom: 8px;
+    right: 16px;
+    }    
 blockquote.farmer {font-style: italic;
     color: rgb(19, 157, 161);
     border-left: rgb(143, 56, 56)}
