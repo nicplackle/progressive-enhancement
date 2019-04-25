@@ -1,6 +1,17 @@
+body {width: 75%;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 50px;
+    margin: auto;}
 p {font-family: "Tims New Roman" serif;
     color: rgb(37, 35, 35);
     letter-spacing: 2px}
+blockquote {font-size: 160%;
+    width: 50%;
+    margin-left: 240px;
+    margin-right: 240px;
+    background: rgb(216, 206, 206);
+    border-left: 3px dotted rgb(255, 102, 0);
+    border-right: 3px dotted rgb(255, 102, 0);}    
 a:link {
     background-color: rgb(185, 231, 227);
     }
@@ -25,18 +36,12 @@ a:active {
 }
 table, th, td {
     border: 1px solid black;
-    }  
-.good{font-family: "Arial Black" Bold;
-    color: green;}
-.bad{font-family: "Arial Black" Bold;
-    color: red;
-} 
+    }   
 .tooltip {
     position: relative;
     display: inline-block;
     border-bottom: 1px dotted black;
   }
-  
   .tooltip .tooltiptext {
     visibility: hidden;
     width: 120px;
