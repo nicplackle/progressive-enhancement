@@ -1,3 +1,6 @@
+header:first-child {
+    background-color: yellow;
+  }
 body {width: 75%;
     border: 5px solid rgb(0, 0, 0);
     padding: 50px;
@@ -7,6 +10,12 @@ body {width: 75%;
 p {font-family: "Tims New Roman" serif;
     color: rgb(37, 35, 35);
     letter-spacing: 2px}
+blockquote.farmer {font-style: italic;
+    color: rgb(19, 157, 161);
+    border-left: rgb(143, 56, 56)}
+blockquote.villager {font-style: italic;
+    color: rgb(4, 117, 38);
+    boder-left: rgb(190, 81, 8);}
 blockquote {font-size: 160%;
     width: 50%;
     margin-left: 240px;
@@ -67,3 +76,4 @@ table, th, td {
   .tooltip:hover .tooltiptext {
     visibility: visible;
   }
+ 
