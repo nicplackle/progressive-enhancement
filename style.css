@@ -2,7 +2,8 @@ body {width: 75%;
     border: 5px solid rgb(0, 0, 0);
     padding: 50px;
     margin: auto;
-    background-image: linear-gradient(to right, rgba(255,0,0,0),rgba(255,0,0,1))}
+    background-image: linear-gradient(to right, rgba(255,0,0,0),rgba(255,0,0,1))
+    }
 p {font-family: "Tims New Roman" serif;
     color: rgb(37, 35, 35);
     letter-spacing: 2px}
